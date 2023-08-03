@@ -17,5 +17,6 @@ Task 2
 * Understand how RSA uses keys to encrypt and decrypt text, especially the math behind it!
 * You can use Kali Linux to help you.
 * Feel free to use online calculators and previous codes to help.
+* https://cryptography.io/en/latest/hazmat/primitives/asymmetric/rsa/# might be helpful
 
 ## Task 2 (Vingenere Cipher)
