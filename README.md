@@ -3,7 +3,7 @@
 ## Instructions:
 
 To solve get the flag, you need to complete Task 1 followed by Task 2.  
-Decrypt the secret in Task 1 to get a key and hit for Task2.
+Decrypt the secret in Task 1 to get a key and hint for Task2.
 
 ## Contents
 Task 1 
